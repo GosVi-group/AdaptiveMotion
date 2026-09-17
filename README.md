@@ -1,1 +1,1 @@
-# Implementation of our work ```Adaptive image motion estimation with locally deformation-aware mixture-of-experts learning```
+This repository provides the implementation of *Adaptive Image Motion Estimation with Locally Deformation-Aware Mixture-of-Experts Learning*.
